@@ -16,7 +16,7 @@ This repository documents the agile planning process for the **Benefits Administ
 ## Project Structure
 
 - `docs/`: Full project documentation including release plan, personas, and user stories
-- `backlog/`: Groomed and prioritized Excel-based product backlog
+- `productbacklog/`: Groomed and prioritized Excel-based product backlog
 - `README.md`: Project summary and instructions
 - `.gitignore`: Files excluded from Git tracking
 
